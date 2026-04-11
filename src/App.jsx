@@ -8,7 +8,7 @@ function app() {
         was once</span> a
         <br/> BEGINNER.
       </h1>
-      <button className='bg-[#ad8b48] p-2 '>Let's Rock.</button>
+      <button className='bg-[#ad8b48] p-2 mx-20 -mt-20 text-white hover:bg-amber-950'>Let's Rock.</button>
       </div>
       <div className='h-full w-6/12 bg-red-200'>
       <img className='h-full w-full object-cover ' src = "https://i.pinimg.com/736x/5a/22/ac/5a22aca8ef3f27a29a2083c99ff9cd94.jpg"></img>
