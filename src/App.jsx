@@ -4,7 +4,7 @@ function app() {
   return (
     <div className='h-screen w-screen bg-black flex'>
       <div className='h-full w-6/12 bg-white'>
-      <h1 className='font-semibold text-6xl mx-20 my-54'>The expert in <span className='text-[#ad8b48]'>Anything 
+      <h1 className='font-semibold text-7xl mx-30 my-54'>The expert in <span className='text-[#ad8b48]'>Everything 
         was once</span> a
         <br/> BEGINNER.
       </h1>
